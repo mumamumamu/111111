@@ -12,7 +12,7 @@
  
 "weather_key": "29a92e9fe15345beb23ab483cf627192",
  
-"region": "石家庄",
+"region": "石家庄市",
  
 "birthday1": {"name": "刘彦鹏", "birthday": "2000-01-13"},
  
